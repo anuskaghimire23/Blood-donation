@@ -26,10 +26,10 @@ This application allows users to register, log in, and add blood donor details. 
 
 ## Screenshots
 
-![Home Screen](Home page.png)
-![Profile Page](Profile page.png)
-![Donor List](Find donor.png)
-![Book Request](Book request.png)
+![Home Screen](homepage.png)
+![Profile Page](profilepage.png)
+![Donor List](donorlist.png)
+![Book Request](bookrequest.png)
 
 
 ---
